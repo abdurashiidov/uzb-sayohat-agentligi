@@ -675,6 +675,12 @@ template {
   display: flex;
 }
 
+.online__boxes-img__wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .online-wrap {
   max-width: 239px;
 }
