@@ -577,6 +577,11 @@ template {
   margin-bottom: 20px;
 }
 
+.special__text {
+  margin: 0;
+  padding: 0;
+}
+
 .active-carouse-img {
   max-width: 530px;
   height: 420px;
