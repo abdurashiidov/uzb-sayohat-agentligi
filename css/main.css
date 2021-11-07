@@ -375,6 +375,9 @@ template {
 .header__link {
   text-decoration: none;
   margin-right: 180px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 
 .header__list {
