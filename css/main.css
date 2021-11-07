@@ -433,6 +433,7 @@ template {
 
 .header__img:hover {
   color: red;
+  opacity: 0.8;
 }
 
 .header__number {
