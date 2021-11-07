@@ -597,5 +597,6 @@ template {
 .active-carouse-img {
   max-width: 530px;
   height: 420px;
+  margin: 0;
 }
 /*# sourceMappingURL=main.css.map */
