@@ -465,5 +465,10 @@ template {
   font-size: 20px;
   line-height: 24px;
   color: #FFFFFF;
+  border-bottom: 1px solid white;
+}
+
+.active-home-a:active {
+  opacity: 0.7;
 }
 /*# sourceMappingURL=main.css.map */
