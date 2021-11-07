@@ -558,4 +558,9 @@ template {
   padding-bottom: 435px;
   margin: 0 auto;
 }
+
+.active-carouse-img {
+  max-width: 530px;
+  height: 420px;
+}
 /*# sourceMappingURL=main.css.map */
