@@ -419,6 +419,10 @@ template {
   color: red;
 }
 
+.header__item__link:active {
+  opacity: 0.7;
+}
+
 .header__img {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
