@@ -26,7 +26,7 @@
         margin-right: 53px;
         align-self: center;
     }
-    
+
     &__item{
         font-style: normal;
         font-weight: normal;
@@ -47,6 +47,7 @@
             &:hover{
                 color:red;
             }
+            
             &:active{
                 opacity: 0.7;
             }
