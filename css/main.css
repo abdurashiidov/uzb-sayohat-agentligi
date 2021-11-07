@@ -374,7 +374,7 @@ template {
 
 .header__link {
   text-decoration: none;
-  margin-right: 102px;
+  margin-right: 202px;
 }
 
 .header__list {
@@ -385,7 +385,7 @@ template {
       -ms-flex-pack: justify;
           justify-content: space-between;
   list-style-type: none;
-  width: 742px;
+  width: 642px;
   margin: 0;
   padding: 0;
   margin-right: 73px;
@@ -402,6 +402,11 @@ template {
 
 .header__item__link {
   text-decoration: none;
+  list-style-type: none;
+  width: 642px;
+  margin: 0;
+  padding: 0;
+  margin-right: 73px;
 }
 
 .activeforimg {
