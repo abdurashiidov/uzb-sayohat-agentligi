@@ -530,6 +530,7 @@ template {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  overflow-x: hidden;
 }
 
 .home-hero__heading {
@@ -554,5 +555,6 @@ template {
   font-size: 30px;
   line-height: 37px;
   color: #FFFFFF;
+  padding-bottom: 435px;
 }
 /*# sourceMappingURL=main.css.map */
