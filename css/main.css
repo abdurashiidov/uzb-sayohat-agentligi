@@ -383,9 +383,6 @@ template {
   display: -ms-flexbox;
   display: flex;
   max-width: 742px;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
   margin: 0;
   padding: 0;
   margin-right: 73px;
