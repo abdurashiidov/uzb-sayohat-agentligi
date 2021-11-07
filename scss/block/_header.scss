@@ -54,7 +54,7 @@
 
         }
     }
-    
+
     &__img{
         align-self: center;
         margin-right: 10px;
@@ -64,6 +64,7 @@
             color: red;
             opacity: 0.8;
         }
+        
         &:active{
             opacity: 0.6;
         }
