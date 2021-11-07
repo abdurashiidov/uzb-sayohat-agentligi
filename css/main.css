@@ -410,6 +410,12 @@ template {
       align-self: center;
 }
 
+.header__number {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
 .activeforimg {
   background-image: url(./../../img/home-hero-img.png);
   background-repeat: no-repeat;
