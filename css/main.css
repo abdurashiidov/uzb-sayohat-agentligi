@@ -664,4 +664,8 @@ template {
   display: -ms-flexbox;
   display: flex;
 }
+
+.online-wrap {
+  max-width: 239px;
+}
 /*# sourceMappingURL=main.css.map */
