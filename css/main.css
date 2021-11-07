@@ -521,4 +521,10 @@ template {
       -ms-grid-row-align: center;
       align-self: center;
 }
+
+.home-hero {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
