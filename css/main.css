@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  max-width: 1820px;
+  max-width: 1420px;
   margin: 0 auto;
   padding: 0 10px;
 }
@@ -374,6 +374,7 @@ template {
 
 .header__link {
   text-decoration: none;
+  margin-right: 352px;
 }
 
 .header__list {
