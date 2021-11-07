@@ -602,7 +602,7 @@ template {
 .active-carousel-btn {
   max-width: 300px;
   border-radius: 10px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 .active-carouse-img {
