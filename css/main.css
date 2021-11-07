@@ -543,7 +543,7 @@ template {
   text-transform: uppercase;
   color: #FFFFFF;
   padding-top: 351px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 .home-hero__text {
