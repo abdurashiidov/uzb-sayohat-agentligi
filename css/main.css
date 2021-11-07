@@ -606,6 +606,7 @@ template {
   margin-top: 50px;
   background: #F39303;
   border: none;
+  margin-bottom: 80px;
 }
 
 .active-carousel-btn:hover {
