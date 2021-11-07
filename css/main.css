@@ -614,6 +614,11 @@ template {
   background: #F39303;
 }
 
+.active-carousel-btn:hover {
+  opacity: 0.8;
+  background: #F39303;
+}
+
 .active-carouse-img {
   max-width: 530px;
   height: 420px;
