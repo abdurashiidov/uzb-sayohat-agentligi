@@ -64,11 +64,12 @@
             color: red;
             opacity: 0.8;
         }
-        
+
         &:active{
             opacity: 0.6;
         }
     }
+    
     &__number{
         align-self: center;
         font-family: "Montserrat", "Arial", sans-serif;
