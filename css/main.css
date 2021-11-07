@@ -530,7 +530,6 @@ template {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  overflow-x: hidden;
 }
 
 .home-hero__heading {
@@ -544,6 +543,7 @@ template {
   text-transform: uppercase;
   color: #FFFFFF;
   padding-top: 351px;
+  margin: 0;
 }
 
 .home-hero__text {
