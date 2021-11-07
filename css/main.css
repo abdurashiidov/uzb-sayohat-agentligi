@@ -397,6 +397,10 @@ template {
   color: #FFFFFF;
 }
 
+.header__item__link {
+  text-decoration: none;
+}
+
 .activeforimg {
   background-image: url(./../../img/home-hero-img.png);
   background-repeat: no-repeat;
