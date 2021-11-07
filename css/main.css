@@ -669,6 +669,12 @@ template {
           flex-direction: column;
 }
 
+.online__boxes-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .online-wrap {
   max-width: 239px;
 }
