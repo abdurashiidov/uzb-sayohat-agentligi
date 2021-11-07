@@ -668,4 +668,8 @@ template {
 .online-wrap {
   max-width: 239px;
 }
+
+.special__heading {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
