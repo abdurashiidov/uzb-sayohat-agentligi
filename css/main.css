@@ -571,6 +571,7 @@ template {
 
 .special__wrap-content {
   max-width: 662px;
+  margin-left: 100px;
 }
 
 .special__heading {
