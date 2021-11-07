@@ -436,6 +436,10 @@ template {
   opacity: 0.8;
 }
 
+.header__img:active {
+  opacity: 0.6;
+}
+
 .header__number {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
