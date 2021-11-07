@@ -569,6 +569,10 @@ template {
           flex-direction: column;
 }
 
+.special__wrap-content {
+  max-width: 662px;
+}
+
 .special__heading {
   margin: 0;
   padding: 0;
@@ -609,7 +613,7 @@ template {
   color: #FFFFFF;
   margin: 0;
   padding: 0;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .carousel__text {
