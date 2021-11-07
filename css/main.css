@@ -424,6 +424,10 @@ template {
   text-decoration: none;
 }
 
+.header__number:hover {
+  color: #ee4747;
+}
+
 .header__img-lupa {
   -ms-flex-item-align: center;
       -ms-grid-row-align: center;
