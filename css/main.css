@@ -476,6 +476,7 @@ template {
       -ms-grid-row-align: center;
       align-self: center;
   cursor: pointer;
+  margin-right: 20px;
 }
 
 .header__img-lupa:hover {
