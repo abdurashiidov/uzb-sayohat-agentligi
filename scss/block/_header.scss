@@ -80,6 +80,14 @@
     &__img-lupa{
         align-self: center;
         cursor: pointer;
+        
+        &:hover{
+            color: red;
+            opacity: 0.8;
+        }
+        &:active{
+            opacity: 0.6;
+        }
     }
 }
 .activeforimg{

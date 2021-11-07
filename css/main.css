@@ -470,6 +470,15 @@ template {
   cursor: pointer;
 }
 
+.header__img-lupa:hover {
+  color: red;
+  opacity: 0.8;
+}
+
+.header__img-lupa:active {
+  opacity: 0.6;
+}
+
 .activeforimg {
   background-image: url(./../../img/home-hero-img.png);
   background-repeat: no-repeat;
