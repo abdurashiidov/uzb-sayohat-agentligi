@@ -614,8 +614,8 @@ template {
   background: #F39303;
 }
 
-.active-carousel-btn:hover {
-  opacity: 0.8;
+.active-carousel-btn:active {
+  opacity: 0.6;
   background: #F39303;
 }
 
