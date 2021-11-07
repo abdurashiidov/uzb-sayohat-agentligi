@@ -376,6 +376,13 @@ template {
   text-decoration: none;
 }
 
+.header__list {
+  list-style-type: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .activeforimg {
   background-image: url(./../../img/home-hero-img.png);
   background-repeat: no-repeat;
