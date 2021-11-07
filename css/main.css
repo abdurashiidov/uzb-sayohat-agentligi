@@ -382,6 +382,9 @@ template {
   display: -ms-flexbox;
   display: flex;
   max-width: 742px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .activeforimg {
