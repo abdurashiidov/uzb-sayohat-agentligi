@@ -434,6 +434,7 @@ template {
   color: #FFFFFF;
   text-decoration: none;
   margin-right: 50px;
+  cursor: pointer;
 }
 
 .header__number:hover {
