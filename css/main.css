@@ -626,4 +626,8 @@ template {
   line-height: 22px;
   color: #ffffff;
 }
+
+.carousel__text1 {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
