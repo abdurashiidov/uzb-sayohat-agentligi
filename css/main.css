@@ -544,4 +544,8 @@ template {
   color: #FFFFFF;
   padding-top: 351px;
 }
+
+.home-hero__text {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
