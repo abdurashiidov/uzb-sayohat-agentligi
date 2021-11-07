@@ -380,6 +380,10 @@ template {
       align-self: center;
 }
 
+.header__link:hover {
+  opacity: 0.8;
+}
+
 .header__list {
   display: -webkit-box;
   display: -ms-flexbox;
