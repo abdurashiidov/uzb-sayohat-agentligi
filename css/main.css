@@ -459,7 +459,7 @@ template {
 }
 
 .active-home-a {
-  font-family: Montserrat;
+  font-family: "Montserrat", "Arial", sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
