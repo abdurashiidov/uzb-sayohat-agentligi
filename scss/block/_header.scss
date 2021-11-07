@@ -4,7 +4,7 @@
 
     &__link{
         text-decoration: none;
-        margin-right: 150px;
+        margin-right: 100px;
 
     }
 
@@ -48,7 +48,9 @@
         &:hover{
             color: #ee4747;
         }
-        
+        &:active{
+            opacity: 0.8;
+        }
     }
     &__img-lupa{
         align-self: center;

@@ -374,7 +374,7 @@ template {
 
 .header__link {
   text-decoration: none;
-  margin-right: 150px;
+  margin-right: 100px;
 }
 
 .header__list {
@@ -426,6 +426,10 @@ template {
 
 .header__number:hover {
   color: #ee4747;
+}
+
+.header__number:active {
+  opacity: 0.8;
 }
 
 .header__img-lupa {
