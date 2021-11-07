@@ -599,6 +599,11 @@ template {
   margin-bottom: 30px;
 }
 
+.active-carousel-btn {
+  max-width: 300px;
+  border-radius: 5px;
+}
+
 .active-carouse-img {
   max-width: 530px;
   height: 420px;
