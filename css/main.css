@@ -389,6 +389,8 @@ template {
   margin: 0;
   padding: 0;
   margin-right: 53px;
+  -ms-flex-item-align: center;
+      align-self: center;
 }
 
 .header__item {
