@@ -658,4 +658,10 @@ template {
   line-height: 22px;
   color: #FFFFFF;
 }
+
+.online {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
