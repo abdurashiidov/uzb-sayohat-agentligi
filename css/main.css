@@ -369,7 +369,7 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  padding-top: 60px;
+  padding-top: 0px;
 }
 
 .header__link {
