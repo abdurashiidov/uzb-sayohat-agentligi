@@ -517,5 +517,8 @@ template {
 .active-drop {
   color: #FFFFFF;
   font-size: 20px;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
 }
 /*# sourceMappingURL=main.css.map */
