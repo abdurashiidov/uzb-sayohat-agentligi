@@ -422,6 +422,12 @@ template {
   color: #FFFFFF;
 }
 
+.header__img-lupa {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
+
 .activeforimg {
   background-image: url(./../../img/home-hero-img.png);
   background-repeat: no-repeat;
