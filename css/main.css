@@ -365,6 +365,12 @@ template {
   display: none;
 }
 
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .activeforimg {
   background-image: url(./../../img/home-hero-img.png);
   background-repeat: no-repeat;
