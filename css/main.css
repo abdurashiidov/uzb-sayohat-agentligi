@@ -672,5 +672,11 @@ template {
 .special__heading {
   margin: 0;
   padding: 0;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 49px;
+  color: #646464;
 }
 /*# sourceMappingURL=main.css.map */
