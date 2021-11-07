@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
 body {
   margin: 0;
   padding: 0;
@@ -11,7 +12,7 @@ body {
 }
 
 .container {
-  max-width: 1300px;
+  max-width: 1820px;
   margin: 0 auto;
   padding: 0 10px;
 }
@@ -362,5 +363,13 @@ template {
    */
 [hidden] {
   display: none;
+}
+
+.header {
+  background-image: url(./../../img/home-hero-img.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: block;
+  width: 1920px;
 }
 /*# sourceMappingURL=main.css.map */
