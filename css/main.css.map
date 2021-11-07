@@ -7,7 +7,8 @@
         "../scss/normalize/_normalize.scss",
         "../scss/fonts/_fonts.scss",
         "../scss/block/_block.scss",
-        "../scss/block/_header.scss"
+        "../scss/block/_header.scss",
+        "../scss/block/_home-hero.scss"
     ],
     "names": [],
     "file": "main.css"
