@@ -7,6 +7,10 @@
         margin-right: 180px;
         align-self: center;
 
+        &:hover{
+            
+        }
+
     }
 
     &__list{
@@ -80,7 +84,7 @@
     &__img-lupa{
         align-self: center;
         cursor: pointer;
-        
+
         &:hover{
             color: red;
             opacity: 0.8;
