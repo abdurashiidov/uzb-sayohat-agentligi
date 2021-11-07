@@ -559,6 +559,12 @@ template {
   margin: 0 auto;
 }
 
+.special {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .active-carouse-img {
   max-width: 530px;
   height: 420px;
