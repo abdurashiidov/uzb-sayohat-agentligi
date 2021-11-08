@@ -808,6 +808,8 @@ template {
 
 .aboutus__wrap__left-side {
   max-width: 750px;
+  margin-right: 90px;
+  margin-bottom: 80px;
 }
 
 .aboutus__wrap__right-side {
