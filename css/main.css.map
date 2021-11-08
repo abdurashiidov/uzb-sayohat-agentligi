@@ -10,7 +10,8 @@
         "../scss/block/_header.scss",
         "../scss/block/_home-hero.scss",
         "../scss/block/_special.scss",
-        "../scss/block/_home-online.scss"
+        "../scss/block/_home-online.scss",
+        "../scss/block/_home-aboutus.scss"
     ],
     "names": [],
     "file": "main.css"
