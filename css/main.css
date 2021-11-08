@@ -692,6 +692,7 @@ template {
       -ms-flex-pack: justify;
           justify-content: space-between;
   max-width: 353px;
+  margin: 0;
 }
 
 .online__boxes-img__box__wrap__heading {
