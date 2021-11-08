@@ -59,7 +59,11 @@
                 max-width: 736px;
 
                 &::before{
-                    
+                    content: "";
+                    background-image: url(./../../img/home-arrow-aboutus.png);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    display: block;
                 }
             }
 

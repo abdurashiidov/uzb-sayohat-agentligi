@@ -839,6 +839,14 @@ template {
   max-width: 736px;
 }
 
+.aboutus__wrap__right-side__text::before {
+  content: "";
+  background-image: url(./../../img/home-arrow-aboutus.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+}
+
 .aboutus__wrap__right-side__heading {
   margin: 0;
   padding: 0;
