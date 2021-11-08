@@ -698,6 +698,8 @@ template {
 
 .online__boxes-img__box:active {
   opacity: 0.8;
+  -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
+          box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
 }
 
 .online__boxes-img__box__wrap {
