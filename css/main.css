@@ -763,4 +763,10 @@ template {
   color: #646464;
   margin-bottom: 40px;
 }
+
+.aboutus {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
