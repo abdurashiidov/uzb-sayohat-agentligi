@@ -892,4 +892,15 @@ template {
   margin-bottom: 10px;
   margin-left: 44px;
 }
+
+.aboutus__wrap__right-side__text1::before {
+  content: "";
+  background-image: url(./../../img/home-aboutus-round.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
 /*# sourceMappingURL=main.css.map */

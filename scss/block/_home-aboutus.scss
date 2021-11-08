@@ -113,7 +113,14 @@
                 margin-left: 44px;
 
                 &::before{
-                    
+                    content: "";
+                    background-image: url(./../../img/home-aboutus-round.svg);
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    display: block;
+                    width: 34px;
+                    height: 34px;
+                    position: absolute;
                 }
             }
         }
