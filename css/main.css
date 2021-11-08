@@ -675,16 +675,22 @@ template {
   display: flex;
 }
 
-.online__boxes-img__wrap {
+.online__boxes-img__box {
+  background-image: url(./../../img/home-online-img1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 394px;
+  height: 394px;
+  display: block;
+}
+
+.online__boxes-img__box__wrap {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
 }
 
-.online__boxes-img__wrap__heading {
+.online__boxes-img__box__wrap__heading {
   margin: 0;
   padding: 0;
   font-family: "Montserrat", "Arial", sans-serif;
@@ -695,7 +701,7 @@ template {
   color: #FFFFFF;
 }
 
-.online__boxes-img__wrap__text {
+.online__boxes-img__box__wrap__text {
   margin: 0;
   padding: 0;
   font-family: "Montserrat", "Arial", sans-serif;
