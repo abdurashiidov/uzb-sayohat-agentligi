@@ -29,7 +29,7 @@
 
     &__wrap{
         display: flex;
-        
+        justify-content: space-between;
 
         &__left-side{
             max-width: 750px;
