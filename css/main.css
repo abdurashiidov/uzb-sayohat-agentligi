@@ -821,6 +821,7 @@ template {
   width: 87px;
   height: 75px;
   position: absolute;
+  margin-left: 600px;
 }
 
 .aboutus__wrap__right-side {
