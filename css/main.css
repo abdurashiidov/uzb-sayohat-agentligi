@@ -694,6 +694,10 @@ template {
   border-radius: 5px;
 }
 
+.online__boxes-img__box:active {
+  opacity: 0.8;
+}
+
 .online__boxes-img__box__wrap {
   display: -webkit-box;
   display: -ms-flexbox;
