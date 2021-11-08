@@ -804,4 +804,8 @@ template {
   display: -ms-flexbox;
   display: flex;
 }
+
+.aboutus__wrap__left-side {
+  max-width: 750px;
+}
 /*# sourceMappingURL=main.css.map */
