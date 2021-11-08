@@ -683,6 +683,7 @@ template {
   width: 394px;
   height: 394px;
   display: block;
+  border-radius: 2px;
 }
 
 .online__boxes-img__box__wrap {
@@ -694,6 +695,7 @@ template {
           justify-content: space-between;
   max-width: 353px;
   margin: 0 auto;
+  padding-top: 338px;
 }
 
 .online__boxes-img__box__wrap__heading {
