@@ -798,4 +798,10 @@ template {
   text-align: justify;
   color: #646464;
 }
+
+.aboutus__wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
