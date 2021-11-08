@@ -15,7 +15,8 @@
 
             &__wrap{
                 display: flex;
-                // justify-content: space-between;
+                justify-content: space-between;
+                max-width: 353px;
     
                 &__heading{
                     margin: 0;

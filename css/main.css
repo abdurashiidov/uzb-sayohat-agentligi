@@ -688,6 +688,10 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  max-width: 353px;
 }
 
 .online__boxes-img__box__wrap__heading {
