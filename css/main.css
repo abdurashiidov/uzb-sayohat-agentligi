@@ -684,6 +684,11 @@ template {
           justify-content: space-between;
 }
 
+.online__boxes-img__wrap__heading {
+  margin: 0;
+  padding: 0;
+}
+
 .online-wrap {
   max-width: 239px;
 }
