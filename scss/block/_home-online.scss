@@ -17,6 +17,12 @@
             margin-right: 15px;
 
             &:hover{
+                border: 1px solid #F3F3F3;
+                box-sizing: border-box;
+                border-radius: 5px;
+            }
+
+            &:active{
                 
             }
 

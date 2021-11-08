@@ -687,6 +687,13 @@ template {
   margin-right: 15px;
 }
 
+.online__boxes-img__box:hover {
+  border: 1px solid #F3F3F3;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 5px;
+}
+
 .online__boxes-img__box__wrap {
   display: -webkit-box;
   display: -ms-flexbox;
