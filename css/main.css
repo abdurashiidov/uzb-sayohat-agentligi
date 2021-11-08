@@ -845,6 +845,7 @@ template {
   background-size: cover;
   background-repeat: no-repeat;
   display: block;
+  width: 140px;
 }
 
 .aboutus__wrap__right-side__heading {
