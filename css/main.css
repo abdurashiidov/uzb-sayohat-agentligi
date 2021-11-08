@@ -531,6 +531,7 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
   margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 .home-hero__heading {
