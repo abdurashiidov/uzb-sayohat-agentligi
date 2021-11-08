@@ -695,6 +695,10 @@ template {
   color: #FFFFFF;
 }
 
+.online__boxes-img__wrap__text {
+  margin: 0;
+}
+
 .online-wrap {
   max-width: 239px;
 }
