@@ -530,7 +530,6 @@ template {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin-bottom: 100px;
   margin-bottom: 80px;
 }
 
