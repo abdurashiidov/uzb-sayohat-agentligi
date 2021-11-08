@@ -811,5 +811,8 @@ template {
 
 .aboutus__wrap__right-side {
   max-width: 750px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=main.css.map */
