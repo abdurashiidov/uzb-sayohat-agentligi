@@ -773,4 +773,8 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.aboutus__heading {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
