@@ -692,6 +692,8 @@ template {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   border-radius: 5px;
+  -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
+          box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
 }
 
 .online__boxes-img__box:active {
