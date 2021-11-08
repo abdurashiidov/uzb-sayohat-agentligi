@@ -819,4 +819,8 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.aboutus__wrap__right-side__text {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
