@@ -812,6 +812,17 @@ template {
   margin-bottom: 80px;
 }
 
+.aboutus__wrap__left-side::before {
+  content: "";
+  background-image: url(./../../img/home-aboutus-arrow-img.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: block;
+  width: 87px;
+  height: 120px;
+  position: absolute;
+}
+
 .aboutus__wrap__right-side {
   max-width: 750px;
   display: -webkit-box;

@@ -38,7 +38,14 @@
             margin-bottom: 80px;
 
             &::before{
-                
+                content: "";
+                background-image: url(./../../img/home-aboutus-arrow-img.svg);
+                background-size: cover;
+                background-repeat: no-repeat;
+                display: block;
+                width: 87px;
+                height: 120px;
+                position: absolute;
             }
         }
         &__right-side{
