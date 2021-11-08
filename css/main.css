@@ -833,9 +833,9 @@ template {
   line-height: 150%;
   text-align: justify;
   color: #646464;
-  margin-top: 38px;
+  margin-top: 18px;
   margin-left: 44px;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   max-width: 736px;
 }
 
@@ -863,6 +863,7 @@ template {
   line-height: 150%;
   text-align: justify;
   color: #646464;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
+  margin-left: 44px;
 }
 /*# sourceMappingURL=main.css.map */
