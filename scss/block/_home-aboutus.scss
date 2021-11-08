@@ -34,12 +34,13 @@
 
         &__left-side{
             max-width: 750px;
+            margin-right: 90px;
         }
         &__right-side{
             max-width: 750px;
             display: flex;
             flex-direction: column;
-            
+
 
             &__text{
                 margin: 0;
