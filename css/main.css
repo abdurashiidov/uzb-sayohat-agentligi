@@ -847,6 +847,7 @@ template {
   display: block;
   width: 140px;
   height: 120px;
+  position: absolute;
 }
 
 .aboutus__wrap__right-side__heading {
