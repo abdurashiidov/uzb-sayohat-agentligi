@@ -977,10 +977,11 @@ template {
   font-weight: bold;
   font-size: 20px;
   line-height: 150%;
+  color: #FFFFFF;
   color: red;
   position: absolute;
   margin-top: -50px;
-  border-bottom: 1px solid white;
+  border-bottom: 2px solid #F39303;
 }
 
 .active-div {
