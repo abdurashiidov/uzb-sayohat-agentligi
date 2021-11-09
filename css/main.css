@@ -686,6 +686,8 @@ template {
   display: block;
   border-radius: 2px;
   margin-right: 15px;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 .online__boxes-img__box:hover {
