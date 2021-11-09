@@ -693,6 +693,8 @@ template {
 .online__boxes-img__box::before {
   content: "";
   position: absolute;
+  width: 150px;
+  height: 100%;
 }
 
 .online__boxes-img__box:hover {
