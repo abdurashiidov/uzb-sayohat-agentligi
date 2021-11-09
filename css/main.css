@@ -688,6 +688,7 @@ template {
   margin-right: 15px;
   -webkit-transition: 1s;
   transition: 1s;
+  overflow: hidden;
 }
 
 .online__boxes-img__box::before {
