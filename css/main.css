@@ -969,6 +969,7 @@ template {
   margin-right: 15px;
   cursor: pointer;
   border-radius: 15px;
+  margin-bottom: 15px;
 }
 
 .gallery-boxes__box__text {
