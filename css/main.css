@@ -988,7 +988,8 @@ template {
 }
 
 .gallery-boxes__box__text:hover {
-  opacity: 0.5;
+  opacity: 0.9;
+  color: #970000;
 }
 
 .active-div {
