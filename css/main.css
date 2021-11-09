@@ -690,6 +690,10 @@ template {
   transition: 1s;
 }
 
+.online__boxes-img__box::before {
+  content: "";
+}
+
 .online__boxes-img__box:hover {
   border: 1px solid #F3F3F3;
   -webkit-box-sizing: border-box;
