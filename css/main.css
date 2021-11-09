@@ -977,7 +977,7 @@ template {
   font-size: 20px;
   line-height: 150%;
   color: #FFFFFF;
-  position: relative;
+  position: absolute;
 }
 
 .active-div {
