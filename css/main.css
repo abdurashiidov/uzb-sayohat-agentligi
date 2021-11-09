@@ -764,6 +764,8 @@ template {
             transform: rotate(0deg);
   }
   100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
   }
 }
 
@@ -773,6 +775,8 @@ template {
             transform: rotate(0deg);
   }
   100% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
   }
 }
 
