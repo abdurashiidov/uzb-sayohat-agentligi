@@ -726,6 +726,7 @@ template {
   max-width: 323px;
   margin: 0 auto;
   padding-top: 338px;
+  overflow: hidden;
 }
 
 .online__boxes-img__box__wrap__heading {
@@ -737,6 +738,7 @@ template {
   font-size: 20px;
   line-height: 24px;
   color: #FFFFFF;
+  z-index: 100;
 }
 
 .online__boxes-img__box__wrap__text {
@@ -748,6 +750,7 @@ template {
   font-size: 20px;
   line-height: 24px;
   color: #F39303;
+  z-index: 100;
 }
 
 .online-wrap {
