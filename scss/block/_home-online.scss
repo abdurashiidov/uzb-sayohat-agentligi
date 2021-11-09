@@ -17,6 +17,10 @@
             margin-right: 15px;
             transition: 1s;
 
+            &::before{
+                
+            }
+
             &:hover{
                 border: 1px solid #F3F3F3;
                 box-sizing: border-box;
