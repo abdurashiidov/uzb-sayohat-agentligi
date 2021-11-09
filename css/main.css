@@ -973,6 +973,8 @@ template {
 
 .gallery-boxes__box:hover {
   border-radius: 15px;
+  -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
+          box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
 }
 
 .gallery-boxes__box:active {
