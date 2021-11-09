@@ -923,4 +923,8 @@ template {
 .gallery {
   max-width: 1620px;
 }
+
+.gallery__heading {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
