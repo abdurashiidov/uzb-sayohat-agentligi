@@ -962,4 +962,8 @@ template {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
 }
+
+.gallery-boxes__box {
+  margin-right: 15px;
+}
 /*# sourceMappingURL=main.css.map */
