@@ -695,8 +695,8 @@ template {
   position: absolute;
   width: 150px;
   height: 100%;
-  background: -webkit-gradient(linear, left top, left bottom, from(#00ccff));
-  background: linear-gradient(#00ccff);
+  background: -webkit-gradient(linear, left top, left bottom, from(#00ccff), to(#d400d4));
+  background: linear-gradient(#00ccff, #d400d4);
 }
 
 .online__boxes-img__box:hover {
