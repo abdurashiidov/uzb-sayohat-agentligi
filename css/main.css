@@ -689,6 +689,7 @@ template {
   -webkit-transition: 1s;
   transition: 1s;
   overflow: hidden;
+  inset: 4px;
 }
 
 .online__boxes-img__box::before {
@@ -707,6 +708,7 @@ template {
   position: absolute;
   inset: 4px;
   background: black;
+  border-radius: 10px;
 }
 
 .online__boxes-img__box:hover {
