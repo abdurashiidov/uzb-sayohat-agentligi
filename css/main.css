@@ -919,4 +919,8 @@ template {
   margin-left: -35px;
   margin-top: 8px;
 }
+
+.gallery {
+  max-width: 1620px;
+}
 /*# sourceMappingURL=main.css.map */
