@@ -987,6 +987,7 @@ template {
           box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
   -webkit-transform: scale(1.1);
           transform: scale(1.1);
+  border-radius: 5px;
 }
 
 .gallery-boxes__box:active {
