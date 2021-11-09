@@ -705,6 +705,7 @@ template {
 .online__boxes-img__box::after {
   content: "";
   position: absolute;
+  inset: 4px;
   background: black;
 }
 
