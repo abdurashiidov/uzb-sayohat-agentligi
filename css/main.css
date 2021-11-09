@@ -1017,6 +1017,7 @@ template {
 
 .gallery-boxes__box__text:hover {
   color: #970000;
+  margin-top: -1px;
 }
 
 .gallery-boxes__box__text:active {
