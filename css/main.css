@@ -982,11 +982,11 @@ template {
 }
 
 .gallery-boxes__box:active {
-  opacity: 0.7;
+  opacity: 0.8;
   -webkit-box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
           box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
 }
 
 .gallery-boxes__box__text {
