@@ -970,6 +970,7 @@ template {
 
 .gallery-boxes__box__text {
   margin: 0;
+  padding: 0;
 }
 
 .active-div {
