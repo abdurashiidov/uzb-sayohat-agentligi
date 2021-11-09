@@ -5,7 +5,7 @@
     &__boxes-img{
         display: flex;
         margin-bottom: 80px;
-        overflow: hidden;
+        // overflow: hidden;
 
         &__box{
             background-image: url(./../../img/home-online-img1.png);
@@ -39,6 +39,7 @@
                 border-radius: 5px;
                 box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
                 transform: scale(0.8);
+                overflow: hidden;
             }
 
             &:active{

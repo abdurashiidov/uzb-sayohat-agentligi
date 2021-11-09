@@ -675,7 +675,6 @@ template {
   display: -ms-flexbox;
   display: flex;
   margin-bottom: 80px;
-  overflow: hidden;
 }
 
 .online__boxes-img__box {
@@ -712,6 +711,7 @@ template {
           box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
   -webkit-transform: scale(0.8);
           transform: scale(0.8);
+  overflow: hidden;
 }
 
 .online__boxes-img__box:active {
