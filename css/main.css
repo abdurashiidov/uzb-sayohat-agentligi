@@ -975,6 +975,8 @@ template {
   border-radius: 15px;
   -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
           box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
+  -webkit-transform: scale(1);
+          transform: scale(1);
 }
 
 .gallery-boxes__box:active {
