@@ -978,6 +978,7 @@ template {
   margin-bottom: 15px;
   -webkit-transition: 1s;
   transition: 1s;
+  border-radius: 5px;
 }
 
 .gallery-boxes__box:hover {
