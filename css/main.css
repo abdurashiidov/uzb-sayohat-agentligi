@@ -984,7 +984,10 @@ template {
   margin-top: -50px;
   border-bottom: 2px solid #F39303;
   margin-left: 20px;
-  border-radius: 5px;
+}
+
+.gallery-boxes__box__text:hover {
+  opacity: 0.9;
 }
 
 .active-div {
