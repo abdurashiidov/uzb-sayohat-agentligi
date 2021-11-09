@@ -920,6 +920,12 @@ template {
   margin-top: 8px;
 }
 
+.container-gallery {
+  max-width: 1659px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
 .gallery {
   max-width: 1620px;
 }
