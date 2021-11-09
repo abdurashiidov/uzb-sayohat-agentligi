@@ -31,6 +31,7 @@
 
             }
 
+
             &:hover{
                 border: 1px solid #F3F3F3;
                 box-sizing: border-box;
@@ -86,6 +87,14 @@
         max-width: 239px;
     }
 }
+
+@keyframes animate {
+    0%{
+        transform: rotate(0deg);
+    }
+}
+
+
 .special__heading{
     margin: 0;
     padding: 0;
