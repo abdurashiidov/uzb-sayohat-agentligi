@@ -961,7 +961,7 @@ template {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  margin-left: 15px;
+  margin-left: 13px;
 }
 
 .gallery-boxes__box {
