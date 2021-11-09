@@ -979,6 +979,8 @@ template {
 
 .gallery-boxes__box:active {
   opacity: 0.7;
+  -webkit-box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
+          box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
 }
 
 .gallery-boxes__box__text {
