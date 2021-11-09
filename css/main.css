@@ -699,7 +699,6 @@ template {
   background: linear-gradient(#00ccff, #d400d4);
   -webkit-animation: animate 4s linear infinite;
           animation: animate 4s linear infinite;
-  text-align: center;
 }
 
 .online__boxes-img__box:hover {
