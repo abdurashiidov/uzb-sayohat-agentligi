@@ -697,6 +697,8 @@ template {
   border-radius: 5px;
   -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
           box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
+  -webkit-transform: scale(0.7);
+          transform: scale(0.7);
 }
 
 .online__boxes-img__box:active {
