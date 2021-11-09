@@ -928,6 +928,7 @@ template {
 
 .gallery {
   max-width: 1659px;
+  margin-bottom: 80px;
 }
 
 .gallery__heading {
