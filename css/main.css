@@ -981,6 +981,7 @@ template {
   position: absolute;
   margin-top: -50px;
   border-bottom: 2px solid #F39303;
+  margin-left: 20px;
 }
 
 .active-div {
