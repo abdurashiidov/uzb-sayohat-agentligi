@@ -30,7 +30,8 @@
                 // text-align: center;
             }
             &::after{
-                
+                content: "";
+                position: absolute;
             }
 
 

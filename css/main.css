@@ -702,6 +702,11 @@ template {
           animation: animate 4s linear infinite;
 }
 
+.online__boxes-img__box::after {
+  content: "";
+  position: absolute;
+}
+
 .online__boxes-img__box:hover {
   border: 1px solid #F3F3F3;
   -webkit-box-sizing: border-box;
