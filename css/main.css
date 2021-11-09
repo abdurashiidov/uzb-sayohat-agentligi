@@ -996,6 +996,7 @@ template {
           box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
   -webkit-transform: scale(0.9);
           transform: scale(0.9);
+  border-radius: 5px;
 }
 
 .gallery-boxes__box__text {
