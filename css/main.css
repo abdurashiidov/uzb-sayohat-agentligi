@@ -935,4 +935,8 @@ template {
   color: #646464;
   margin-bottom: 20px;
 }
+
+.gallery__text {
+  margin: 0;
+}
 /*# sourceMappingURL=main.css.map */
