@@ -73,10 +73,11 @@
                 border-bottom: 2px solid #F39303;
                 margin-left: 20px;
                 border-radius: 5px;
+                transition: 1s;
 
                 &:hover{
                     color: rgb(151, 0, 0);
-                    margin-top: -1px;
+                    margin-top: 2px;
                 }
                 &:active{
                     opacity: 0.7;

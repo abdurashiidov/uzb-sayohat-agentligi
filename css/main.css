@@ -1013,11 +1013,13 @@ template {
   border-bottom: 2px solid #F39303;
   margin-left: 20px;
   border-radius: 5px;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 .gallery-boxes__box__text:hover {
   color: #970000;
-  margin-top: -1px;
+  margin-top: 2px;
 }
 
 .gallery-boxes__box__text:active {
