@@ -968,12 +968,12 @@ template {
 .gallery-boxes__box {
   margin-right: 15px;
   cursor: pointer;
-  border-radius: 15px;
   margin-bottom: 15px;
 }
 
 .gallery-boxes__box:hover {
   color: #970000;
+  border-radius: 15px;
 }
 
 .gallery-boxes__box:active {

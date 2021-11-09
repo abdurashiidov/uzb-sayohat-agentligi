@@ -41,11 +41,11 @@
         &__box{
             margin-right: 15px;
             cursor: pointer;
-            border-radius: 15px;
             margin-bottom: 15px;
-
+            
             &:hover{
                 color: rgb(151, 0, 0);
+                border-radius: 15px;
             }
             &:active{
                 opacity: 0.7;
