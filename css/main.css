@@ -692,6 +692,7 @@ template {
 
 .online__boxes-img__box::before {
   content: "";
+  position: absolute;
 }
 
 .online__boxes-img__box:hover {
