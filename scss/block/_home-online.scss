@@ -17,26 +17,26 @@
             border-radius: 10px;
             margin-right: 15px;
             transition: 1s;
-            overflow: hidden;
-            inset: 4px;
+            // overflow: hidden;
+            // inset: 4px;
 
-            &::before{
-                content: "";
-                position: absolute;
-                width: 150px;
-                height: 394px;
-                background: linear-gradient(#00ccff, #d400d4);
-                // overflow: hidden;
-                animation: animate 4s linear infinite;
-                // text-align: center;
-            }
-            &::after{
-                content: "";
-                position: absolute;
-                inset: 4px;
-                background: black;
-                border-radius: 10px;
-            }
+            // &::before{
+            //     content: "";
+            //     position: absolute;
+            //     width: 150px;
+            //     height: 394px;
+            //     background: linear-gradient(#00ccff, #d400d4);
+            //     // overflow: hidden;
+            //     animation: animate 4s linear infinite;
+            //     // text-align: center;
+            // }
+            // &::after{
+            //     content: "";
+            //     position: absolute;
+            //     inset: 4px;
+            //     background: black;
+            //     border-radius: 10px;
+            // }
 
 
             &:hover{
