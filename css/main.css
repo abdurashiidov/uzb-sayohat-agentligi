@@ -968,6 +968,10 @@ template {
   margin-right: 15px;
 }
 
+.gallery-boxes__box__text {
+  margin: 0;
+}
+
 .active-div {
   margin-right: 0;
 }
