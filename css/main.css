@@ -972,7 +972,6 @@ template {
 }
 
 .gallery-boxes__box:hover {
-  color: #970000;
   border-radius: 15px;
 }
 
