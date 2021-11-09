@@ -969,8 +969,8 @@ template {
   margin-right: 15px;
   cursor: pointer;
   margin-bottom: 15px;
-  -webkit-transition: 0.5s;
-  transition: 0.5s;
+  -webkit-transition: 1s;
+  transition: 1s;
 }
 
 .gallery-boxes__box:hover {
