@@ -976,8 +976,9 @@ template {
   font-weight: bold;
   font-size: 20px;
   line-height: 150%;
+  color: red;
   position: absolute;
-  margin-top: 50px;
+  margin-top: -50px;
 }
 
 .active-div {
