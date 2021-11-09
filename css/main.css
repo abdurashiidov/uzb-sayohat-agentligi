@@ -976,7 +976,7 @@ template {
   -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
           box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
   width: 300px;
-  height: 300px;
+  height: 100px;
   position: relative;
 }
 
