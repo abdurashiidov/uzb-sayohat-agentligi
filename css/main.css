@@ -970,33 +970,37 @@ template {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  margin-left: 13px;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
 }
 
 .gallery-boxes__box {
-  margin-right: 15px;
   cursor: pointer;
   margin-bottom: 15px;
   -webkit-transition: 1s;
   transition: 1s;
-  border-radius: 5px;
+  border-radius: 10px;
+  border: 2px solid black;
+  overflow: hidden;
 }
 
 .gallery-boxes__box:hover {
   border-radius: 15px;
   -webkit-box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
           box-shadow: 12px 12px 2px 1px rgba(101, 101, 236, 0.2);
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
-  border-radius: 5px;
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+  border-radius: 10px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
 }
 
 .gallery-boxes__box:active {
   opacity: 0.8;
   -webkit-box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
           box-shadow: 12px 12px 2px 1px rgba(109, 109, 124, 0.2);
-  -webkit-transform: scale(0.9);
-          transform: scale(0.9);
+  -webkit-transform: scale(1.5);
+          transform: scale(1.5);
   border-radius: 5px;
 }
 
