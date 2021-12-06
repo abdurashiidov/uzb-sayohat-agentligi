@@ -1041,6 +1041,7 @@ template {
   display: block;
   width: 1485px;
   height: 274px;
+  border-radius: 10px;
 }
 
 .input-wrapper {
