@@ -1129,4 +1129,9 @@ template {
   color: black;
   opacity: 0.9;
 }
+
+.btn-input:active {
+  color: black;
+  opacity: 0.9;
+}
 /*# sourceMappingURL=main.css.map */
