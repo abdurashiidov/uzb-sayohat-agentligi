@@ -1110,4 +1110,9 @@ template {
   margin-right: 17px;
   color: #332222;
 }
+
+.btn {
+  background: #F39303;
+  border-radius: 3px;
+}
 /*# sourceMappingURL=main.css.map */
