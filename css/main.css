@@ -1131,6 +1131,7 @@ template {
 }
 
 .btn-input:active {
+  background: blue;
   color: #942222;
   opacity: 0.7;
 }

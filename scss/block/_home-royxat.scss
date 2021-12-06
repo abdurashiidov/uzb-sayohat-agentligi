@@ -81,7 +81,8 @@
         opacity: 0.9;
     }
     &:active{
-        color: rgb(148, 34, 34);
+        background: blue;
+        color: rgb(255, 255, 255);
         opacity: 0.7;
     }
 }
