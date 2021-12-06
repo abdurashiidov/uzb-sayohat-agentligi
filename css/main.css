@@ -1061,4 +1061,9 @@ template {
   text-transform: uppercase;
   color: #FFFFFF;
 }
+
+.input-wrapper__text {
+  margin: 0;
+  padding: 0;
+}
 /*# sourceMappingURL=main.css.map */
