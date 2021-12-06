@@ -1111,7 +1111,7 @@ template {
   color: #332222;
 }
 
-.btn {
+.btn-input {
   background: #F39303;
   border-radius: 3px;
   font-family: "Montserrat", "Arial", sans-serif;
@@ -1122,5 +1122,6 @@ template {
   text-align: justify;
   color: #FFFFFF;
   padding: 12px 54px;
+  border: none;
 }
 /*# sourceMappingURL=main.css.map */
