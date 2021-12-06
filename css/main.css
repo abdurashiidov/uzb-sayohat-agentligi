@@ -1089,4 +1089,8 @@ template {
   display: -ms-flexbox;
   display: flex;
 }
+
+.input1 {
+  max-width: 240px;
+}
 /*# sourceMappingURL=main.css.map */
