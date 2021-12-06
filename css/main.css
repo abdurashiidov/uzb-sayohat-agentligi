@@ -1091,6 +1091,14 @@ template {
 }
 
 .input1 {
+  max-width: 260px;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 24px;
+  margin-right: 17px;
+}
+
+.input2 {
   max-width: 240px;
   padding-top: 13px;
   padding-bottom: 13px;
