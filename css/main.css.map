@@ -9,7 +9,7 @@
         "../scss/block/_block.scss",
         "../scss/block/_header.scss",
         "../scss/block/_home-hero.scss",
-        "../scss/block/_special.scss",
+        "../scss/block/_home-special.scss",
         "../scss/block/_home-online.scss",
         "../scss/block/_home-aboutus.scss",
         "../scss/block/_home-gallery.scss"
