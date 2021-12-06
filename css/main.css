@@ -1042,4 +1042,8 @@ template {
   width: 1620px;
   height: 274px;
 }
+
+.input-wrapper {
+  max-width: 754px;
+}
 /*# sourceMappingURL=main.css.map */
