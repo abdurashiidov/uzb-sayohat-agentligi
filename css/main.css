@@ -1075,4 +1075,10 @@ template {
   color: #FFFFFF;
   margin-bottom: 40px;
 }
+
+.form {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
