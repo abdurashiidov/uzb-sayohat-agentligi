@@ -1091,6 +1091,6 @@ template {
 }
 
 .input1 {
-  padding: 13px 17px 13px 24px;
+  max-width: 240px;
 }
 /*# sourceMappingURL=main.css.map */
