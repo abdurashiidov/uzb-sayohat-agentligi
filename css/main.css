@@ -1039,7 +1039,7 @@ template {
   background-repeat: no-repeat;
   background-size: cover;
   display: block;
-  width: 1620px;
+  width: 1420px;
   height: 274px;
 }
 
@@ -1073,7 +1073,6 @@ template {
   line-height: 150%;
   text-align: justify;
   color: #FFFFFF;
-  margin-bottom: 40px;
   margin: 0 auto;
   display: -webkit-box;
   display: -ms-flexbox;
