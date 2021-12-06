@@ -1124,4 +1124,8 @@ template {
   padding: 12px 54px;
   border: none;
 }
+
+.btn-input:hover {
+  color: black;
+}
 /*# sourceMappingURL=main.css.map */
