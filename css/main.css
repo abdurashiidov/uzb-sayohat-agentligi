@@ -1060,6 +1060,7 @@ template {
   text-align: justify;
   text-transform: uppercase;
   color: #FFFFFF;
+  margin-bottom: 16px;
 }
 
 .input-wrapper__text {
