@@ -1089,4 +1089,8 @@ template {
   display: -ms-flexbox;
   display: flex;
 }
+
+.input1 {
+  padding: 13px 147px 13px 24px;
+}
 /*# sourceMappingURL=main.css.map */
