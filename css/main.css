@@ -1119,7 +1119,6 @@ template {
   font-weight: bold;
   font-size: 18px;
   line-height: 150%;
-  /* identical to box height, or 27px */
   text-align: justify;
   color: #FFFFFF;
 }
