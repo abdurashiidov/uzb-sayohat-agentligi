@@ -1048,4 +1048,9 @@ template {
   padding-top: 54px;
   margin: 0 auto;
 }
+
+.input-wrapper__heading {
+  margin: 0;
+  padding: 0;
+}
 /*# sourceMappingURL=main.css.map */
