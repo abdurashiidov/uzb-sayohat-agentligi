@@ -267,6 +267,10 @@
                     cursor: pointer;
                 }
             }
+
+            &__text{
+                display: flex;
+            }
         }
     }
 }
