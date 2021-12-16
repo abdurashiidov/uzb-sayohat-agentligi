@@ -1380,6 +1380,7 @@ template {
       -ms-flex-align: center;
           align-items: center;
   color: #646464;
+  width: 273px;
 }
 
 .home-contact__wrap2__logo__text::before {
@@ -1389,5 +1390,6 @@ template {
   background-size: cover;
   width: 268px;
   height: 21px;
+  position: relative;
 }
 /*# sourceMappingURL=main.css.map */
