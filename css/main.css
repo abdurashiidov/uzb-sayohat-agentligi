@@ -1341,4 +1341,10 @@ template {
   position: relative;
   margin-left: -8px;
 }
+
+.home-contact__wrap2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
