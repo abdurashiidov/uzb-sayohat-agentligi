@@ -1478,6 +1478,7 @@ template {
 .home-contact__wrap2__social__icons__img:hover {
   background-color: #3e423a;
   border-radius: 50%;
+  padding-top: 2px;
 }
 
 .home-contact__wrap2__social__text {
