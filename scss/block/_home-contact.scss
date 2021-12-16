@@ -126,5 +126,10 @@
                 text-decoration: none;
             }
         }
+
+        &__contact{
+            display: flex;
+            flex-direction: column;
+        }
     }
 }
