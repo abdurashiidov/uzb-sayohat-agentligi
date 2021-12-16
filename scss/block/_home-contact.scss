@@ -147,6 +147,11 @@
             &__contact{
                 display: flex;
                 align-self: center;
+
+                &__input{
+                    background: rgba(105, 155, 247, 0.78);
+                    border-radius: 3px;
+                }
             }
         }
     }
