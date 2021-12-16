@@ -88,5 +88,12 @@
                 text-decoration: none;
             }
         }
+
+        &__email{
+            display: flex;
+            flex-direction: column;
+
+            
+        }
     }
 }
