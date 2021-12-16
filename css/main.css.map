@@ -13,7 +13,8 @@
         "../scss/block/_home-online.scss",
         "../scss/block/_home-aboutus.scss",
         "../scss/block/_home-gallery.scss",
-        "../scss/block/_home-royxat.scss"
+        "../scss/block/_home-royxat.scss",
+        "../scss/block/_home-contact.scss"
     ],
     "names": [],
     "file": "main.css"
