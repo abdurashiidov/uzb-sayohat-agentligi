@@ -53,6 +53,9 @@
 
         &__phone{
             display: flex;
+            flex-direction: column;
+
+            
         }
     }
 }
