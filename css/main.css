@@ -1229,11 +1229,12 @@ template {
 }
 
 .home-contact__wrap1__phone__n1 {
-  font-family: Montserrat;
+  font-family: "Montserrat", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 24px;
   color: #646464;
+  margin-bottom: 12px;
 }
 /*# sourceMappingURL=main.css.map */
