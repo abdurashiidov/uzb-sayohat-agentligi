@@ -1488,4 +1488,9 @@ template {
       -ms-grid-row-align: center;
       align-self: center;
 }
+
+.home-contact__wrap2__social__text__text {
+  margin: 0;
+  padding: 0;
+}
 /*# sourceMappingURL=main.css.map */
