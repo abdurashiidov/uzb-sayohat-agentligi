@@ -1159,4 +1159,10 @@ template {
   color: #646464;
   margin-bottom: 40px;
 }
+
+.home-contact__wrap1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
