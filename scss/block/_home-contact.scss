@@ -18,6 +18,8 @@
 
     &__wrap1{
         display: flex;
+        margin-bottom: 75px;
+
 
         &__address{
             display: flex;
@@ -44,6 +46,7 @@
                 font-size: 20px;
                 line-height: 30px;
                 color: #646464;
+                width: 340px;
             }
         }
     }
