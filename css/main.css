@@ -1340,6 +1340,7 @@ template {
   height: 50px;
   font-size: 20px;
   border: none;
-  position: absolute;
+  position: relative;
+  margin-left: -10px;
 }
 /*# sourceMappingURL=main.css.map */
