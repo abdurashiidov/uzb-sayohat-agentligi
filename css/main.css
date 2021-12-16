@@ -1473,4 +1473,10 @@ template {
 .home-contact__wrap2__social__icons__img {
   cursor: pointer;
 }
+
+.home-contact__wrap2__social__text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
