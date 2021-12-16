@@ -1179,5 +1179,12 @@ template {
 .home-contact__wrap1__address__heading {
   margin: 0;
   padding: 0;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 150%;
+  text-align: justify;
+  color: #F39303;
 }
 /*# sourceMappingURL=main.css.map */
