@@ -1165,6 +1165,9 @@ template {
   display: -ms-flexbox;
   display: flex;
   margin-bottom: 75px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 .home-contact__wrap1__address {
