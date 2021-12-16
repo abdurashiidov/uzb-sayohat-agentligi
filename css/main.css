@@ -1476,8 +1476,8 @@ template {
 }
 
 .home-contact__wrap2__social__icons__img:hover {
-  -webkit-transform: translate(1.2);
-          transform: translate(1.2);
+  -webkit-transform: translate(1.8);
+          transform: translate(1.8);
   background-color: #3e423a;
   border-radius: 50%;
   -webkit-box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
