@@ -262,6 +262,7 @@
                 display: flex;
                 width: 200px;
                 justify-content: space-between;
+                margin-bottom: 82px;
 
                 &__img{
                     cursor: pointer;
@@ -270,7 +271,12 @@
 
             &__text{
                 display: flex;
-                
+                align-self: center;
+
+                &__img{
+                    align-self: center;
+                }
+
             }
         }
     }
