@@ -1464,6 +1464,13 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  width: 240px;
+  width: 200px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.home-contact__wrap2__social__icons__img {
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */

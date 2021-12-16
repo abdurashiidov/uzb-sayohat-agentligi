@@ -260,10 +260,11 @@
 
             &__icons{
                 display: flex;
-                width: 240px;
+                width: 200px;
+                justify-content: space-between;
 
                 &__img{
-                    
+                    cursor: pointer;
                 }
             }
         }
