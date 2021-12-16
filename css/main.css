@@ -1360,4 +1360,10 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.home-contact__wrap2__logo__logo {
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+}
 /*# sourceMappingURL=main.css.map */
