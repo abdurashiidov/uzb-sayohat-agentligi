@@ -1475,6 +1475,10 @@ template {
   cursor: pointer;
 }
 
+.home-contact__wrap2__social__icons__img:hover {
+  background: chartreuse;
+}
+
 .home-contact__wrap2__social__text {
   display: -webkit-box;
   display: -ms-flexbox;

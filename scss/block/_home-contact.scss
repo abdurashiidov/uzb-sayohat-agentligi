@@ -266,6 +266,10 @@
 
                 &__img{
                     cursor: pointer;
+
+                    &:hover{
+                        background: chartreuse;
+                    }
                 }
             }
 
