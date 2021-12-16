@@ -1415,4 +1415,8 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.home-contact__wrap2__links__1 {
+  text-decoration: none;
+}
 /*# sourceMappingURL=main.css.map */
