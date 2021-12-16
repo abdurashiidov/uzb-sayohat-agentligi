@@ -1144,5 +1144,11 @@ template {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  margin-top: 80px;
+}
+
+.home-contact__heading {
+  margin: 0;
+  padding: 0;
 }
 /*# sourceMappingURL=main.css.map */
