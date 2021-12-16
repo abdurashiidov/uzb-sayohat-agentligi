@@ -1258,4 +1258,9 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.home-contact__wrap1__email__heading {
+  margin: 0;
+  padding: 0;
+}
 /*# sourceMappingURL=main.css.map */
