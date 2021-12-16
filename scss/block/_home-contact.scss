@@ -175,6 +175,7 @@
     &__wrap2{
         display: flex;
         justify-content: space-between;
+        margin-bottom: 82px;
 
         &__logo{
             display: flex;
@@ -205,7 +206,7 @@
                     background-size: cover;
                     width: 268px;
                     height: 21px;
-                    position: relative;
+                    position: absolute;
                 }
             }
         }

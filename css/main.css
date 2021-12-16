@@ -1349,6 +1349,7 @@ template {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  margin-bottom: 82px;
 }
 
 .home-contact__wrap2__logo {
@@ -1390,6 +1391,6 @@ template {
   background-size: cover;
   width: 268px;
   height: 21px;
-  position: relative;
+  position: absolute;
 }
 /*# sourceMappingURL=main.css.map */
