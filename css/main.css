@@ -1135,4 +1135,10 @@ template {
   color: white;
   opacity: 0.7;
 }
+
+.home-contact {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
