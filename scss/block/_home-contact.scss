@@ -177,6 +177,9 @@
         justify-content: space-between;
 
         &__logo{
+            display: flex;
+            flex-direction: column;
+
             
         }
     }
