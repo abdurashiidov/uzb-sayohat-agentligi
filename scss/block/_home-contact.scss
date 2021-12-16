@@ -198,7 +198,12 @@
                 color: #646464;
 
                 &::before{
-                    
+                    content: "";
+                    background-image: url(./../../img/home-contact-lines.png);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    width: 268px;
+                    height: 21px;
                 }
             }
         }
