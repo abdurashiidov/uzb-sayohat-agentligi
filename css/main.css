@@ -1271,4 +1271,13 @@ template {
   color: #F39303;
   margin-bottom: 20px;
 }
+
+.home-contact__wrap1__email__email1 {
+  font-family: "Montserrat", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #646464;
+}
 /*# sourceMappingURL=main.css.map */
