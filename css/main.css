@@ -1464,5 +1464,6 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  width: 240px;
 }
 /*# sourceMappingURL=main.css.map */
