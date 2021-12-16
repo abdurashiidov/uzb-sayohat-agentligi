@@ -1236,6 +1236,7 @@ template {
   line-height: 24px;
   color: #646464;
   margin-bottom: 12px;
+  text-decoration: none;
 }
 
 .home-contact__wrap1__phone__n2 {
@@ -1245,6 +1246,6 @@ template {
   font-size: 20px;
   line-height: 24px;
   color: #646464;
-  margin-bottom: 12px;
+  text-decoration: none;
 }
 /*# sourceMappingURL=main.css.map */
