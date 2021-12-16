@@ -1346,5 +1346,8 @@ template {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  -webkit-box-pack: spa;
+      -ms-flex-pack: spa;
+          justify-content: spa;
 }
 /*# sourceMappingURL=main.css.map */
