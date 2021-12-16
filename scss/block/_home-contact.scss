@@ -227,7 +227,9 @@
             display: flex;
             flex-direction: column;
 
-            
+            &__1{
+                text-decoration: none;
+            }
         }
     }
 }
