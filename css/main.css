@@ -1418,5 +1418,17 @@ template {
 
 .home-contact__wrap2__links__1 {
   text-decoration: none;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #F39303;
 }
 /*# sourceMappingURL=main.css.map */
