@@ -1,9 +1,9 @@
-.home-contact{
+.home-contact {
     display: flex;
     flex-direction: column;
     margin-top: 80px;
 
-    &__heading{
+    &__heading {
         margin: 0;
         padding: 0;
         font-family: "Montserrat", "Arial", sans-serif;
@@ -16,17 +16,17 @@
         margin-bottom: 40px;
     }
 
-    &__wrap1{
+    &__wrap1 {
         display: flex;
         margin-bottom: 75px;
         justify-content: space-between;
 
 
-        &__address{
+        &__address {
             display: flex;
             flex-direction: column;
 
-            &__heading{
+            &__heading {
                 margin: 0;
                 padding: 0;
                 font-family: "Montserrat", "Arial", sans-serif;
@@ -38,7 +38,8 @@
                 color: #F39303;
                 margin-bottom: 20px;
             }
-            &__text{
+
+            &__text {
                 margin: 0;
                 padding: 0;
                 font-family: "Montserrat", "Arial", sans-serif;
@@ -51,11 +52,11 @@
             }
         }
 
-        &__phone{
+        &__phone {
             display: flex;
             flex-direction: column;
 
-            &__heading{
+            &__heading {
                 margin: 0;
                 padding: 0;
                 font-family: "Montserrat", "Arial", sans-serif;
@@ -68,7 +69,7 @@
                 margin-bottom: 20px;
             }
 
-            &__n1{
+            &__n1 {
                 font-family: "Montserrat", "Arial", sans-serif;
                 font-style: normal;
                 font-weight: normal;
@@ -78,7 +79,8 @@
                 margin-bottom: 12px;
                 text-decoration: none;
             }
-            &__n2{
+
+            &__n2 {
                 font-family: "Montserrat", "Arial", sans-serif;
                 font-style: normal;
                 font-weight: normal;
@@ -89,11 +91,11 @@
             }
         }
 
-        &__email{
+        &__email {
             display: flex;
             flex-direction: column;
 
-            &__heading{
+            &__heading {
                 margin: 0;
                 padding: 0;
                 font-family: "Montserrat", "Arial", sans-serif;
@@ -106,7 +108,7 @@
                 margin-bottom: 20px;
             }
 
-            &__email1{
+            &__email1 {
                 font-family: "Montserrat", "Arial", sans-serif;
                 font-style: normal;
                 font-weight: 500;
@@ -116,7 +118,8 @@
                 margin-bottom: 12px;
                 text-decoration: none;
             }
-            &__email2{
+
+            &__email2 {
                 font-family: "Montserrat", "Arial", sans-serif;
                 font-style: normal;
                 font-weight: 500;
@@ -127,28 +130,29 @@
             }
         }
 
-        &__contact{
+        &__contact {
             display: flex;
             flex-direction: column;
             align-self: center;
 
-            
-                &__heading{
-                    margin: 0;
-                    padding: 0;
-                    font-family: "Montserrat", "Arial", sans-serif;
-                    font-style: normal;
-                    font-weight: bold;
-                    font-size: 30px;
-                    line-height: 150%;
-                    text-align: justify;
-                    color: #F39303;
-                    margin-bottom: 25px;
-                }
-            &__wrap{
+
+            &__heading {
+                margin: 0;
+                padding: 0;
+                font-family: "Montserrat", "Arial", sans-serif;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 30px;
+                line-height: 150%;
+                text-align: justify;
+                color: #F39303;
+                margin-bottom: 25px;
+            }
+
+            &__wrap {
                 display: flex;
-    
-                &__input{
+
+                &__input {
                     background-color: rgba(105, 155, 247, 0.78);
                     padding: 10px;
                     // border: none;
@@ -157,7 +161,7 @@
                     color: white;
                 }
 
-                &__btn{
+                &__btn {
                     background: #F39303;
                     border-radius: 5px;
                     width: 54px;
@@ -172,21 +176,21 @@
         }
     }
 
-    &__wrap2{
+    &__wrap2 {
         display: flex;
         justify-content: space-between;
         margin-bottom: 82px;
 
-        &__logo{
+        &__logo {
             display: flex;
             flex-direction: column;
 
-            &__logo{
+            &__logo {
                 // align-self: center;
                 margin-bottom: 53px;
             }
 
-            &__text{
+            &__text {
                 margin: 0;
                 padding: 0;
                 font-family: "Montserrat", "Arial", sans-serif;
@@ -199,7 +203,7 @@
                 color: #646464;
                 width: 273px;
 
-                &::before{
+                &::before {
                     content: "";
                     background-image: url(./../../img/home-contact-lines.png);
                     background-repeat: no-repeat;
@@ -209,7 +213,8 @@
                     position: absolute;
                     margin-top: -140px;
                 }
-                &::after{
+
+                &::after {
                     content: "";
                     background-image: url(./../../img/home-contact-lines.png);
                     background-repeat: no-repeat;
@@ -223,11 +228,11 @@
             }
         }
 
-        &__links{
+        &__links {
             display: flex;
             flex-direction: column;
 
-            &__1{
+            &__1 {
                 text-decoration: none;
                 font-family: "Montserrat", "Arial", sans-serif;
                 font-style: normal;
@@ -240,11 +245,11 @@
             }
         }
 
-        &__social{
+        &__social {
             display: flex;
             flex-direction: column;
 
-            &__heading{
+            &__heading {
                 margin: 0;
                 padding: 0;
                 font-family: "Montserrat", "Arial", sans-serif;
@@ -258,33 +263,37 @@
                 margin-bottom: 31px;
             }
 
-            &__icons{
+            &__icons {
                 display: flex;
                 width: 200px;
                 justify-content: space-between;
                 margin-bottom: 82px;
 
-                &__img{
+                &__img {
                     cursor: pointer;
 
-                    &:hover{
+                    &:hover {
                         background-color: rgb(62, 66, 58);
                         border-radius: 50%;
-                        box-shadow: ;
+                        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+                         rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+                          rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+                        ;
                     }
                 }
             }
 
-            &__text{
+            &__text {
                 display: flex;
                 align-self: center;
                 margin: 0;
                 padding: 0;
 
-                &__img{
+                &__img {
                     align-self: center;
                 }
-                &__text{
+
+                &__text {
                     margin: 0;
                     padding: 0;
                 }
