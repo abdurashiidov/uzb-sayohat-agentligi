@@ -1441,4 +1441,21 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.home-contact__wrap2__social__heading {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 37px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #F39303;
+}
 /*# sourceMappingURL=main.css.map */
