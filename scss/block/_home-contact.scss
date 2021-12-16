@@ -20,7 +20,8 @@
         display: flex;
 
         &__address{
-            
+            display: flex;
+            flex-direction: column;
         }
     }
 }
