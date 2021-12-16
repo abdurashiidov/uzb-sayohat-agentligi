@@ -1318,8 +1318,16 @@ template {
   margin-bottom: 25px;
 }
 
-.home-contact__wrap1__contact__input {
+.home-contact__wrap1__contact__wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.home-contact__wrap1__contact__wrap__input {
   background-color: rgba(105, 155, 247, 0.78);
+  padding: 10px;
+  border: none;
   border-radius: 3px;
   width: 348px;
 }
