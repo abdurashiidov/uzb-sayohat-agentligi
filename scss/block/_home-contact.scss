@@ -130,6 +130,7 @@
         &__contact{
             display: flex;
             flex-direction: column;
+            align-self: center;
 
             &__heading{
                 margin: 0;
@@ -144,16 +145,12 @@
                 margin-bottom: 25px;
             }
 
-            &__contact{
-                display: flex;
-                align-self: center;
-
-                &__input{
-                    background-color: rgba(105, 155, 247, 0.78);
-                    padding: 10px;
-                    border-radius: 3px;
-                }
+            &__input{
+                background-color: rgba(105, 155, 247, 0.78);
+                // padding: 10px;
+                border-radius: 3px;
             }
+
         }
     }
 }
