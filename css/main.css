@@ -1315,4 +1315,10 @@ template {
   color: #F39303;
   margin-bottom: 25px;
 }
+
+.home-contact__wrap1__contact__contact {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
