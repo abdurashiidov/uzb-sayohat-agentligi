@@ -1204,4 +1204,10 @@ template {
   color: #646464;
   width: 340px;
 }
+
+.home-contact__wrap1__phone {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
 /*# sourceMappingURL=main.css.map */
