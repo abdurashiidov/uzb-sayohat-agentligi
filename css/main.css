@@ -1476,7 +1476,8 @@ template {
 }
 
 .home-contact__wrap2__social__icons__img:hover {
-  background: chartreuse;
+  background-color: chartreuse;
+  border-radius: 50%;
 }
 
 .home-contact__wrap2__social__text {

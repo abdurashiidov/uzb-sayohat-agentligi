@@ -268,7 +268,8 @@
                     cursor: pointer;
 
                     &:hover{
-                        background: chartreuse;
+                        background-color: chartreuse;
+                        border-radius: 50%;
                     }
                 }
             }
