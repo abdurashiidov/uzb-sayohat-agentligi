@@ -1360,4 +1360,8 @@ template {
       -ms-flex-direction: column;
           flex-direction: column;
 }
+
+.home-contact__wrap2__logo__logo {
+  margin-bottom: 53px;
+}
 /*# sourceMappingURL=main.css.map */
