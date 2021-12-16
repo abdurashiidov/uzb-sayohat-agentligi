@@ -1394,4 +1394,15 @@ template {
   position: absolute;
   margin-top: -140px;
 }
+
+.home-contact__wrap2__logo__text::after {
+  content: "";
+  background-image: url(./../../img/home-contact-lines.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 268px;
+  height: 21px;
+  position: absolute;
+  margin-top: 140px;
+}
 /*# sourceMappingURL=main.css.map */
