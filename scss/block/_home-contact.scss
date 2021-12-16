@@ -153,8 +153,13 @@
                     padding: 10px;
                     border: none;
                     border-radius: 3px;
-                    width: 348px;
+                    width: 308px;
                     color: white;
+                }
+
+                &__btn{
+                    background: #F39303;
+                    border-radius: 0px 3px 3px 0px;
                 }
             }
 
